@@ -1,4 +1,4 @@
-# Experiments with Speculative Fiction in HathiTrust
+# 🪐 Experiments with Speculative Fiction in HathiTrust
 
 A Python notebook for working with HathiTrust Research Center's 20th Century English-Language Speculative Fiction workset, which contains 2,454 books of speculative fiction from 1900-1999.
 
